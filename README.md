@@ -6,14 +6,16 @@
 - [codeigniter4/translations](https://github.com/codeigniter4/translations) Translations system (4.0v)
 - [tatter/settings](https://github.com/tattersoftware/codeigniter4-settings) Settings system (1.1v)
 
-## Installation & updates
+## Installation
 
-> composer install
+to clone project
+`$ git clone https://github.com/hunter-and1/nexci`
 
-To clone project
-`$ git clone https://github.com/hunter-and1/nexci` then `composer update` whenever
+after that install to get folder `vendor`
+`$ composer install`
 
-Update`.env`
+> Database File
+`default_db.sql`
 
 ## Server Requirements
 
