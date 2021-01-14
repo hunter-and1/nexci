@@ -2,9 +2,9 @@
 
 ## Intgrations
 
-- [](myth/auth) Auth system
-- [](codeigniter4/translations) Translations system
-- [](tatter/settings) Settings system
+- [myth/auth](https://github.com/lonnieezell/myth-auth) Authentication system ( @beta)
+- [codeigniter4/translations](https://github.com/codeigniter4/translations) Translations system (4.0v)
+- [tatter/settings](https://github.com/tattersoftware/codeigniter4-settings) Settings system (1.1v)
 
 ## Installation & updates
 
