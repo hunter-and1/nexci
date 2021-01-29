@@ -2,7 +2,7 @@
 
 use Myth\Auth\Authentication\LocalAuthenticator;
 
-class Auth extends Myth\Auth\Config
+class Auth extends \Myth\Auth\Config
 {
     //--------------------------------------------------------------------
     // Default User Group
