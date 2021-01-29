@@ -1,8 +1,8 @@
 <?php namespace Config;
 
-use Myth\Auth\Authentication\LocalAuthenticator;
+use \Myth\Auth\Authentication\LocalAuthenticator;
 
-class Auth extends \Myth\Auth\Config
+class Auth extends \Myth\Auth\Config\Auth
 {
     //--------------------------------------------------------------------
     // Default User Group
